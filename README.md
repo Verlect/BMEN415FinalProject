@@ -4,8 +4,8 @@ This is group 12's final project github, which houses the code and notebooks.
 
 The models that are shown in this repository are:
 
-##Regression:
-###Linear:
+## Regression:
+### Linear:
 
 Multiple Linear Regression - Bismarck 
 
@@ -13,7 +13,7 @@ Partial Least Squares - Dein
 
 Penalized Models - Sanjana
 
-###Non-linear:
+### Non-linear:
 
 Neural nets - Dein
 
@@ -23,7 +23,7 @@ Support Vector Machines - Sanjana
 
 KNN - Matt
 
-###Tree:
+### Tree:
 
 Basic/cart - Sanjana
 
@@ -35,7 +35,7 @@ Boosted - Bismarck
 
 Cubist-Dein
 
-###Found:
+### Found:
 
 Bayesian Ridge regression - Julie
 
@@ -47,9 +47,9 @@ Lasso Regressor - Bismarck
 
 
 
-##Classification:
+## Classification:
 
-###Linear:
+### Linear:
 
 Logistic Regression - Bismarck
 
@@ -60,7 +60,7 @@ PLS Discriminant Analysis-Dein
 Penalized Models - Sanjana
 
 
-###Non-linear:
+### Non-linear:
 
 Neural Nets -Dein
 
@@ -70,7 +70,7 @@ KNN	- Matt
 
 Naive Bayes - Sanjana
 
-###Tree:
+### Tree:
 Basic - Julie
 
 Rule - Sanjana
@@ -81,7 +81,7 @@ Random - Matt
 
 Boosted - Dein
 
-###Found:
+### Found:
 
 Quadratic classifier - Bismarck
 
