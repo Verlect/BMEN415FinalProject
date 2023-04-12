@@ -17,7 +17,9 @@ Penalized Models - Sanjana
 
 Neural nets - Dein
 
-MARS - Bismarck (COULD NOT INSTALL, SWITCH TO LASSO REGRESSOR)
+MARS - Bismarck (COULD NOT INSTALL, SWITCH TO DECISION TREE REGRESSOR)
+
+Desicion Tree - Bismarck
 
 Support Vector Machines - Sanjana
 
