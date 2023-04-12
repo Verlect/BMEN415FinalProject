@@ -15,8 +15,6 @@ Penalized Models - Sanjana
 
 ### Non-linear:
 
-Neural nets - Dein
-
 MARS - Bismarck (COULD NOT INSTALL, SWITCH TO DECISION TREE REGRESSOR)
 
 Desicion Tree - Bismarck
@@ -34,8 +32,6 @@ Bagging Regressor - Julie
 Random Forest	 - Matt
 
 Boosted - Bismarck
-
-Cubist-Dein
 
 ### Found:
 
@@ -56,8 +52,6 @@ Lasso Regressor - Bismarck
 Logistic Regression - Bismarck
 
 Linear Discriminant Analysis - Julie
-
-PLS Discriminant Analysis-Dein
 
 Penalized Models - Sanjana
 
@@ -80,8 +74,6 @@ Rule - Sanjana
 Bagging Classifier - Julie
 
 Random - Matt
-
-Boosted - Dein
 
 ### Found:
 
